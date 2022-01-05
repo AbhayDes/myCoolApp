@@ -1,0 +1,22 @@
+{
+  "name": "mycoolapp",
+  "version": "1.0.0",
+  "description": "My App ",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhayDes/myCoolApp.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Abhaya Deshmukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhayDes/myCoolApp/issues"
+  },
+  "homepage": "https://github.com/AbhayDes/myCoolApp#readme"
+}
