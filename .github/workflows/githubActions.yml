@@ -5,12 +5,12 @@ name: Checking build
 
 on:
   push:
-    branches: [ branchnew ]
+    branches: [ main ]
   pull_request:
-    branches: [ branchnew ]
+    branches: [ main ]
 
 jobs:
-  build:
+  test:
 
     runs-on: ubuntu-latest
 
